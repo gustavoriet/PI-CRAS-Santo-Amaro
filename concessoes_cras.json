@@ -1,0 +1,24 @@
+[
+    {
+        "cpf": "35515056547",
+        "nome": "PEDRO PAULO",
+        "membros_familia": "2",
+        "beneficio": "Cesta básica",
+        "datas_concessoes": [
+            "28/10/2026"
+        ],
+        "total_cestas": 1,
+        "amparo_legal": "Lei Municipal nº 2.889/2022"
+    },
+    {
+        "cpf": "56366588596",
+        "nome": "JOAO DA SILVA",
+        "membros_familia": "5",
+        "beneficio": "Cesta básica",
+        "datas_concessoes": [
+            "22/10/2026"
+        ],
+        "total_cestas": 1,
+        "amparo_legal": "Lei Municipal nº 2.889/2022"
+    }
+]
